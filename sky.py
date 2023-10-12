@@ -1,2 +1,3 @@
 print("Black hole")
-print("Nebula")
+print("Space")
+print("Sun")
